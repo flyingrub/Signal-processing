@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.jsm": "javascript",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp"
+    }
+}
